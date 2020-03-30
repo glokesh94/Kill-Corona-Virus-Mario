@@ -2,7 +2,7 @@
   "name": "mario",
   "version": "1.0.0",
   "description": "Kill-Corona-Virus-Mario Made with React, Webpack, Node, Travis, Heroku",
-  "homepage": "http://glokesh94.github.io/Kill-Corona-Virus-Mario",
+  "homepage": "https://glokesh94.github.io/Kill-Corona-Virus-Mario/",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
